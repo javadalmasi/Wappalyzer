@@ -9906,6 +9906,17 @@
 			"website": "http://xuijs.com"
 		}
 	},
+	"KaGital": {
+			"cats": [
+				6
+			],
+			"excludes": "PrestaShop",
+			"excludes": "WordPress"
+			"icon": "kagital.png",
+			"implies": "PHP",
+			"meta": {
+				"designer": "KaGital"
+			},
 	"categories": {
 		"1": "CMS",
 		"2": "Message Boards",
