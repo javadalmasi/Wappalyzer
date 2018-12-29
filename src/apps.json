@@ -4079,6 +4079,26 @@
       "icon": "HP.svg",
       "website": "http://hp.com/networking"
     },
+     "HiCDN": {
+      "cats": [
+        31
+      ],
+      "excludes": [
+        "CloudFlare",
+        "ArvanCloud",
+		"Fastly",
+		"Incapsula",
+		"Backtory"
+      ],
+      "meta": {
+        "Mcdn": "HiCDN"
+      },
+	  "headers": {
+        "Server": "^HiCDN",
+        "X-MCDN-BY": "^HiCDN"
+		},
+      "website": "https://hicdn.ir"
+    },
     "HP System Management": {
       "cats": [
         46
