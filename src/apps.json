@@ -12837,6 +12837,27 @@
       "website": "https://www.xt-commerce.com"
     }
   },
+   "HiCDN": {
+      "cats": [
+        31
+      ],
+      "implies": [
+        "CloudFlare",
+        "ArvanCloud",
+	    	"Fastly",
+    		"Incapsula",
+    		"Backtory"
+      ],
+     "icon": "hicdn.png",
+      "meta": {
+        "Mcdn": "HiCDN"
+      },
+	      "headers": {
+        "Server": "^HiCDN",
+        "X-MCDN-BY": "^HiCDN"
+  		},
+       "website": "https://hicdn.ir"
+      },
   "categories": {
     "1": {
       "name": "CMS",
